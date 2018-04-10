@@ -1,0 +1,1 @@
+Server=moon.wuffhost.ovh; database=fbdata1_1_al; UID=fbdata1_1_al; password=fbdata1_1; port=3306; charset=utf8mb4;

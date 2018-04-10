@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\FBgroupsScraper.exe.config
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\FBgroupsScraper.exe
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\FBgroupsScraper.pdb
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.Properties.Resources.resources
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.exe
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.pdb
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\SautinSoft.HtmlToRtf.dll
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.ScrapeGroupForm.resources
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.ScrapePostForm.resources
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\DotNetBrowser.dll
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\DotNetBrowser.Chromium.dll
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Debug\FBgroupsScraper.Form1.resources

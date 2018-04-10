@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Release\FBgroupsScraper.exe.config
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Release\FBgroupsScraper.exe
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Release\FBgroupsScraper.pdb
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Release\SautinSoft.HtmlToRtf.dll
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Release\FBgroupsScraper.Form1.resources
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Release\FBgroupsScraper.Properties.Resources.resources
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Release\FBgroupsScraper.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Release\FBgroupsScraper.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Release\FBgroupsScraper.exe
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\obj\Release\FBgroupsScraper.pdb
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Release\FBgroupsScraper.exe.CodeAnalysisLog.xml
+C:\Users\hp\Desktop\FBgroupsScraper\FBgroupsScraper\bin\Release\FBgroupsScraper.exe.lastcodeanalysissucceeded
